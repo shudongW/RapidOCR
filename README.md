@@ -1,3 +1,5 @@
+# 其他ocr项目
+https://github.com/myhub/tr/blob/master/README.md
 
 <div align="center">
   <img src="./assets/RapidOCR_LOGO.png" width="65%" height="65%"/>
